@@ -2,4 +2,6 @@
 Multifunctional robotic hand built from scratch
 
 ## Overview
-![Robotic Hand Overview](Img/hand.jpg)
+<p align="center">
+  <img src="Img/hand.jpg" width="600">
+</p>
