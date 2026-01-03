@@ -2,4 +2,4 @@
 Multifunctional robotic hand built from scratch
 
 ## Overview
-![Robotic Hand Overview](Img/full hand.jpg)
+![Robotic Hand Overview](Img/hand.jpg)
