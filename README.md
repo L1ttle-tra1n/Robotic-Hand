@@ -7,6 +7,4 @@ Multifunctional robotic hand built from scratch
 </p>
 
 ## Intro
-<p align="center">
-  <img src="Img/poster.png" width="800">
-</p>
+![Robotic Hand](Img/poster.png)
