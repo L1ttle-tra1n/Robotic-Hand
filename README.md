@@ -7,4 +7,4 @@ Multifunctional robotic hand built from scratch
 </p>
 
 ## Intro
-![Robotic Hand](Img/poster.png)
+![Robotic Hand](Img/poster.jpg)
