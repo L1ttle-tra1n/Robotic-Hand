@@ -5,3 +5,8 @@ Multifunctional robotic hand built from scratch
 <p align="center">
   <img src="Img/hand.jpg" width="400">
 </p>
+
+## Intro
+<p align="center">
+  <img src="Img/poster.png" width="600">
+</p>
