@@ -5,6 +5,8 @@ Multifunctional robotic hand built from scratch
 
 Youtube Link: https://www.youtube.com/watch?v=3xmCeEKaR_o
 
+The project was presented at the annual showcase: https://www.youtube.com/watch?v=L1BGeIoN8Uo
+
 <p align="center">
   <img src="Img/hand.jpg" width="400">
 </p>
