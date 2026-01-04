@@ -6,9 +6,10 @@ import math
 import asyncio
 from bleak import BleakClient
 
-ESP32_BLE_ADDRESS = "9B07F07D-313C-AA11-01F1-4C6F31D19CDC"  # alter if u have new address
-SERVICE_UUID = "4fafc201-1fb5-459e-8fcc-c5c9c331914b"
-CHARACTERISTIC_UUID = "beb5483e-36e1-4688-b7f5-ea07361b26a8"
+# Enter own address
+ESP32_BLE_ADDRESS = "xx"  
+SERVICE_UUID = "xx"
+CHARACTERISTIC_UUID = "xx" 
 
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands
@@ -181,3 +182,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
