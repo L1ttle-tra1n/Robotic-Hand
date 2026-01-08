@@ -12,7 +12,7 @@ The project was presented at the annual showcase: https://www.youtube.com/watch?
 </p>
 
 ## About This Hand
-![Robotic Hand](Img/poster.jpg)
+![Robotic Hand](Img/poster.png)
 
 
 
